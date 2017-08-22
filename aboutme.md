@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About the blog
+subtitle: Why this blog exists
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### Dear future me
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This is the blog you built so you don't have to go hunting down the same information across notes, random directories, and Google.  Hopefully you took the time to document and post it here.
 
-What else do you need?
+Probably not a bad idea to post other things here as well.
 
-### my history
+### Dear random reader
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+If you benefit from reading this blog, then great!  Any questions or suggestions hit me up using contact details at the bottom of every page on this site.
