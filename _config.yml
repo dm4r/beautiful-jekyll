@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Daniel
+title: danielm.io
 
 # Short description of your site
 description: This blog is to the future me that needs to do that one thing again and managed to document it here.
@@ -37,7 +37,7 @@ avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+# title-img: /img/avatar-icon.png
 
 # --- Footer options --- #
 
